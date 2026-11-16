@@ -93,6 +93,7 @@
 - [Europages](https://www.europages.com/) — 欧洲 B2B 黄页，覆盖多国买家，主攻欧盟可先挂公司与产品信息占曝光。
 - [Kompass](https://www.kompass.com/) — 全球企业名录型 B2B，偏传统采购检索，适合作为补充目录而不是唯一渠道。
 - [FactoryBase](https://factorybase.ai) — 中国工厂核验档案库，工厂可免费登录档案页（工商/认证/产品），多一个被海外买家和 AI 搜到的入口，适合还没做独立站的工厂先占个位。
+- [PlushSource](https://plushsource.com) — 定制毛绒工厂免费目录，55 家厂资料取自官网，毛绒厂可免费提交，被海外买家搜到。
 
 ---
 
